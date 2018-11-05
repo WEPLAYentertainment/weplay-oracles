@@ -1,0 +1,2 @@
+# weplay-oracles
+oracles daemon
